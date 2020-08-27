@@ -263,7 +263,7 @@ for i in range(0,len(Total)):
     seq_z = ([z_NORM[i][sum(step_length[:k]):sum(step_length[:k])+n] for k,n in enumerate(step_length)])
     
 
-    ### Resamplining
+    ### Resampling
     for x in range(0,len(step_length)):
         seq_sam_x.append((signal.resample(seq_x[x],101)))
         seq_sam_y.append((signal.resample(seq_y[x],101)))
