@@ -3,9 +3,9 @@ A binary classification machine learning algorithm to distinguish between a norm
 
 The goal of this binary classification ML algorithm is to distinguish between a normal walking person and a person, who is walking with a handicap, in this case a small plastic object in his/her shoe. The data was collected with wearable inertial sensors, connected with a custom build smartphone app. 
 
-This project took place in the class "Computational Intelligence in Engineering" by Prof. Bernd Markert and assisted by Arndt Koeppe and Marion Mundt at the Institute of General Mechanics at RWTH Aachen University. The Code was written in a team consisting of Charles Vivek (Github: @Vivek9Chavan), Chi Shing Li (Github: @charles4444) and myself.
+This project took place in the class "Computational Intelligence in Engineering" by Prof. Bernd Markert and assisted by Arnd Koeppe and Marion Mundt at the Institute of General Mechanics at RWTH Aachen University. The Code was written in a team consisting of Charles Vivek (Github: @Vivek9Chavan), Chi Shing Li (Github: @charles4444) and myself.
 
-I specially want to thank Arndt Koeppe and Marion Mundt for assisting in the project and want to redirect to their research for further reading.
+I specially want to thank Arnd Koeppe and Marion Mundt for assisting in the project and want to redirect to their research for further reading.
 
 Mundt, M., Koeppe, A., Bamer, F., Potthast, W., Markert, B., FEATURE SELECTION FOR THE APPLICATION OF ARTIFICIAL NEURAL NETWORKS IN MOTION ANALYSIS, 2020, ISBS Proceedings Archive 38 (1), 368
 
