@@ -1,7 +1,7 @@
 """
 A binary classification machine learning algorithm for identification of normal walking and walking with a handicap 
 
-This Script was created for the course Computational Intelligence in Engineering hold by Arndt Koeppe and Marion Mundt, supervised by Prof. Bernd Markert @ Institue of General Mechanics RWTH Aachen University 
+This Script was created for the course Computational Intelligence in Engineering hold by Arnd Koeppe and Marion Mundt, supervised by Prof. Bernd Markert @ Institue of General Mechanics RWTH Aachen University 
 
 Date: 20.11.2019
 
